@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    border: 0;
+}
+
+header{
+
+    height: 150px;
+    width: 100%;
+    background-color: lightskyblue;
+   
+}
+
+.logo{
+    width: 200px;
+    padding-top: 90px;
+    
+    
+}
+
+
