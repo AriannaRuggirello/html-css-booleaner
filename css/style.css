@@ -28,7 +28,7 @@ h1{
     font-size: 50px;
 }
 
-.author{
+.author{margin-top: 20px;
     color: rgb(75, 73, 73);    
 }
 
@@ -84,3 +84,30 @@ thead{
 }
 
 /* end second main section */
+
+/* start third section */
+
+#monitor{
+    background-image: url(img/monitor.jpg);
+    
+}
+
+#graph{
+    background-image: url(img/graph.jpg);
+}
+
+.photo{
+    width: 400px;
+    height: 200px;
+    margin-top: 15px;
+    background-color: lightskyblue;
+    background-size: cover;
+}
+
+.photo-title{
+    position: absolute;         
+    color: white;
+    font-weight: bold;
+    font-size: larger;
+   
+}
