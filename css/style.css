@@ -3,17 +3,19 @@
     border: 0;
 }
 /* inizio header */
-header{
-
-    height: 150px;
-    width: 100%;
-    background-color: lightskyblue;
-   
+#wallpaper{
+    background-image: url(img/pattern.png);
 }
 
+.sfondo{
+    position: relative;    
+    height: 200px;
+    background-color: lightseagreen;    
+    background-size: cover;
+}
 .logo{
     width: 200px;
-    padding-top: 90px;
+    padding-top: 100px;
     
     
 }
@@ -100,7 +102,7 @@ thead{
     width: 400px;
     height: 200px;
     margin-top: 15px;
-    background-color: lightskyblue;
+    background-color: lightseagreen;
     background-size: cover;
 }
 
