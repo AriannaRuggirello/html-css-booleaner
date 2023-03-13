@@ -19,7 +19,7 @@ header{
 }
 
 
-/* inizio first main section */
+/* start first main section */
 .article-header{
     margin:10px 5px; 
 }
@@ -43,11 +43,44 @@ h5 {
     background-color: yellow;
 }
 
+/* article photos */
+
 .article-photo{
     margin: 10px 5px;
 }
+
+/* article paragraph */
+.article-paragraph{
+    margin-top: 20px;
+}
+
+/* article list */
 
 .article-list{
     margin-top: 20px;
     
 }
+
+/* end first main section */
+
+/* start secon main section */
+table{
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+thead{
+    background-color: lightslategray;
+}
+
+.coloured{
+    background-color: rgb(154, 176, 199);
+}
+
+/* end second main section */
